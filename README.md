@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @RaedHachicha
-- 🌱 I'm on my first steps towards the junior java developer tag.
 - 📫 It's too easy to reach me, hit r43dgame@gmail.com.
 
 <!---
