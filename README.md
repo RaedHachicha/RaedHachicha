@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, Raed HACHICHA</h1>
-<h3 align="center">from Tunisia</h3>
+<h1 align="center">Hi there 👋, I am Raed HACHICHA</h1>
 
 - 🔭 I’m currently working on **Virtual Reality Project using Unity.**
 
