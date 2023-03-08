@@ -6,7 +6,7 @@
 ### <div align="center">I'm Raed HACHICHA, </div>  
   
 
-- 👨‍💻 I’m currently working on Virtual Reality Project using Unity & Mobile Application using Flutter
+- 👨‍💻 I’m currently working on Virtual Reality project using Unity & Mobile Application project using Flutter
   
 
 - 📚I’m currently learning IA & Data Science  
